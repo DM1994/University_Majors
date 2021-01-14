@@ -6,7 +6,9 @@ Column names and meanings according to fivethirtyeight:
 "
 
 Rank - Rank by median earnings
+
 Major_code - Major code, FO1DP in ACS PUMS
+
 Major -	Major description
 Major_category -Category of major from Carnevale et al
 Total -	Total number of people with major
