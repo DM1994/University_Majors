@@ -3,6 +3,7 @@ Data analysis project: Analysing data to find best university majors for a lucra
 All data is from American Community Survey 2010-2012 Public Use Microdata Series.
 Data downloaded from: https://github.com/fivethirtyeight/data/tree/master/college-majors
 Column names and meanings according to fivethirtyeight:
+
 "
 
 Rank - Rank by median earnings
@@ -47,3 +48,4 @@ Non_college_jobs	- Number with job not requiring a college degree
 
 Low_wage_jobs	- Number in low-wage service jobs
 
+"
