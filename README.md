@@ -3,9 +3,13 @@ Data analysis project: Analysing data to find best university majors for a lucra
 
 Install
 This project requires Python 3.8.3 and the following libraries:
+
 Requests
+
 Pandas
+
 matplotlib
+
 Software is also required to run a Jupyter Notebook
 
 Data
