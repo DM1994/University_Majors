@@ -1,5 +1,14 @@
 # University_Majors
 Data analysis project: Analysing data to find best university majors for a lucrative career
+
+Install
+This project requires Python 3.8.3 and the following libraries:
+Requests
+Pandas
+matplotlib
+Software is also required to run a Jupyter Notebook
+
+Data
 All data is from American Community Survey 2010-2012 Public Use Microdata Series.
 Data downloaded from: https://github.com/fivethirtyeight/data/tree/master/college-majors
 Column names and meanings according to fivethirtyeight:
